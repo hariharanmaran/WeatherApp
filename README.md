@@ -16,6 +16,7 @@ A Flutter app that provides real-time weather updates with a clean and responsiv
 
 ## Screenshots
 https://github.com/hariharanmaran/WeatherApp/blob/main/Screenshots/Output_1.png?raw=true
+https://github.com/hariharanmaran/WeatherApp/blob/main/Screenshots/Output_2.png?raw=true
 
 ## Installation
 1. Clone the repository:

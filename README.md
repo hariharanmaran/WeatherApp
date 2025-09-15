@@ -15,7 +15,7 @@ A Flutter app that provides real-time weather updates with a clean and responsiv
 - OpenWeatherMap API
 
 ## Screenshots
-
+https://github.com/hariharanmaran/WeatherApp/blob/main/Screenshots/Output_1.png?raw=true
 
 ## Installation
 1. Clone the repository:

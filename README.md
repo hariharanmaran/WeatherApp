@@ -1,19 +1,21 @@
-# WhetherApp
+# Weather App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A Flutter app that provides real-time weather updates with a clean and responsive UI.
 
-## Getting Started
+## Features
+- Current weather: temperature, condition, humidity, wind speed
+- 7-day weather forecast with icons
+- Smooth and responsive UI
+- State management with GetX
+- API integration with OpenWeatherMap
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter & Dart
+- GetX for state management
+- OpenWeatherMap API
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Screenshots
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Installation
+1. Clone the repository:
